@@ -31,7 +31,7 @@ Atau jalankan langsung versi script (`.py` menggunakan python).
 ### 1. Clone repo / siapkan file:
 ```bash
 git clone https://github.com/yogaxdd/lua-downloader
-cd YogaxD-Lua-Downloader
+cd lua-downloader
 ```
 
 ### 2. Install dependencies:
