@@ -1,4 +1,4 @@
-# 🧠 YogaxD Lua Downloader
+# 🔥 YogaxD Lua Downloader
 
 A simple and stylish tool to download Lua ZIP files from SteamDatabase using AppID.
 
