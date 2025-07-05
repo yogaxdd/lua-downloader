@@ -20,7 +20,7 @@ A simple and stylish tool to download Lua ZIP files from SteamDatabase using App
 ## 📥 Download Installer
 
 Kamu bisa download versi `.exe` via installer:
-> 💾 [Download Setup YogaxD Lua Downloader](https://wait.com)
+> 💾 [Download Setup YogaxD Lua Downloader](https://github.com/yogaxdd/lua-downloader/releases/download/release-1.0/Setup_Lua_Downloader.exe)
 
 Atau jalankan langsung versi script (`.py` menggunakan python).
 
